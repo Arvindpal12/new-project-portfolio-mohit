@@ -21,7 +21,7 @@ const Navbar = () => {
                 <a href="#projects"> <li className="text-md  text-white px-4
                py-2 rounded transition-all duration-300 ease-in-out hover:bg-indigo-900 hover:text-white hover:shadow-lg hover:scale-105 ">Projects</li></a>
                 <a href="#Footer"> <li className="text-md  text-white px-4
-               py-2 rounded transition-all duration-300 ease-in-out hover:bg-indigo-900 hover:text-white hover:shadow-lg hover:scale-105 ">Contect</li></a>
+               py-2 rounded transition-all duration-300 ease-in-out hover:bg-indigo-900 hover:text-white hover:shadow-lg hover:scale-105 ">Contact</li></a>
 
 
 
