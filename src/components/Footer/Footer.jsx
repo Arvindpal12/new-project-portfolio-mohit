@@ -14,27 +14,32 @@ const Footer = () => {
 
             </div>
             <ul className='text-sm md:text-xl'>
-                <li className='flex gap-1 items-center'>
+                {/* <li className='flex gap-1 items-center'>
                     <MdOutlineEmail size={30} />
-                    arvindpal6706@gmail.com
+                    mohittt1642002@gmail.com 
+                </li> */}
+             <li className='flex gap-1 items-center'>
+                    <MdOutlineEmail size={30}/><a href='mohittt1642002@gmail.com' target='_blank' rel='noopener noreferrer'>mohittt1642002@gmail.com</a>
+                    </li>
+             
+                <li className='flex gap-1 items-center'>
+                    <CiLinkedin size={30} /><a href='https://www.linkedin.com/in/mohit-15743a352' target='_blank' rel='noopener noreferrer'>
+                   www.linkedin.com/in/mohit-15743a352 </a>
                 </li>
                 <li className='flex gap-1 items-center'>
-                    <CiLinkedin size={30} />
-                    linkedin.com/arvindpal
+                    <FaGithub size={30} /><a href='https://github.com/Mohit0416' target='_blank' rel='noopener noreferrer'>
+                    https://github.com/Mohit0416</a>
                 </li>
-                <li className='flex gap-1 items-center'>
-                    <FaGithub size={30} />
-                    github.com/Arvindpal12
-                </li>
+                <a href=''target='_blank' rel=''>
                 <li className='flex gap-2 items-center'>
-                    <HiPhone size={25} />
+                    <HiPhone size={25} /> 
                     7398696706
-                </li>
-                <li className='flex gap-2 items-center'>
+                </li></a>
+                {/* <li className='flex gap-2 items-center'>
                     <FaTwitter size={25} />
                     @ArvindPal696706
 
-                </li>
+                </li> */}
             </ul>
         </div>
     )
