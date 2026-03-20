@@ -33,7 +33,7 @@ const Footer = () => {
                 <a href=''target='_blank' rel=''>
                 <li className='flex gap-2 items-center'>
                     <HiPhone size={25} /> 
-                    7398696706
+                    7428612412
                 </li></a>
                 {/* <li className='flex gap-2 items-center'>
                     <FaTwitter size={25} />

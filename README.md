@@ -1,6 +1,6 @@
-# React + Vite
+# Mohit Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with React, Vite, Tailwind CSS, featuring Home, About, Skills, Projects, and Footer sections.
 
 Currently, two official plugins are available:
 
