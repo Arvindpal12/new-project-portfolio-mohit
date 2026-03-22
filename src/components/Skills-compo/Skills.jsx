@@ -80,7 +80,7 @@ const Skills = () => {
           <div className="flex flex-col lg:flex-row gap-8 lg:gap-16 bg-slate-950/70 backdrop-blur-md rounded-3xl p-8 md:p-12 lg:p-16 items-center lg:items-start w-full max-w-6xl mx-auto shadow-2xl">
             <div className="flex flex-wrap group [perspective:1000px] w-full max-w-xs sm:max-w-sm md:max-w-md mx-auto lg:mx-0">
               <img
-                className="w-full max-w-48 sm:max-w-56 md:max-w-64 h-auto transition-transform duration-700 group-hover:[transform:rotateY(180deg)] [transform-style:preserve-3d] rounded-lg shadow-lg"
+                className="max-w-48 sm:max-w-56 md:max-w-64 h-auto mx-auto transition-transform duration-700 group-hover:[transform:rotateY(180deg)] [transform-style:preserve-3d] rounded-lg shadow-lg"
                 src={avtar}
                 alt=""
               />
