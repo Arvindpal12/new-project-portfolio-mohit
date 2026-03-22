@@ -19,7 +19,7 @@ const Footer = () => {
                     mohittt1642002@gmail.com 
                 </li> */}
              <li className='flex gap-1 items-center'>
-                    <MdOutlineEmail size={30}/><a href='mohittt1642002@gmail.com' target='_blank' rel='noopener noreferrer'>mohittt1642002@gmail.com</a>
+                    <MdOutlineEmail size={30}/><a href='mailto:mohittt1642002@gmail.com' target='_blank' rel='noopener noreferrer'>mohittt1642002@gmail.com</a>
                     </li>
              
                 <li className='flex gap-1 items-center'>
