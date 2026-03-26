@@ -10,7 +10,7 @@ import { FaWordpress, FaPhp } from "react-icons/fa";
 const Skills = () => {
   return (
     <div id="Skills" className="p-4 sm:p-8 md:p-16 lg:p-20 xl:p-24 mx-auto max-w-7xl">
-      <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-white font-bold text-center sm:text-left mb-8">Skills</h1>
+      <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-white font-bold text-left pl-4 sm:pl-0 mb-8">Skills</h1>
       <div className="space-y-12">
         {/* Upper Container: Icons + Descriptions */}
         <div className="w-full max-w-6xl mx-auto p-8 sm:p-12 md:p-16 lg:px-20 lg:py-16 rounded-2xl bg-slate-900/50 backdrop-blur-sm">
