@@ -25,7 +25,7 @@ const Footer = () => {
                 <li className='flex gap-1 items-center'>
                     <CiLinkedin size={30} /><a href='www.linkedin.com/in/
 mohit-kumar-15743a352' target='_blank' rel='noopener noreferrer'>
-                   www.linkedin.com/in/arvind-pal-70b4b4300 </a>
+                   www.linkedin.com/in/mohit-kumar-15743a352 </a>
                 </li>
                 <li className='flex gap-1 items-center'>
                     <FaGithub size={30} /><a href='https://github.com/Mohit0416' target='_blank' rel='noopener noreferrer'>
